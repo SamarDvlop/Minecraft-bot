@@ -1,14 +1,14 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "SoloCloudHosting",
+    "username": "Bot",
     "password": "",
     "type": "offline"
   },
   "server": {
     "ip": "DuoGODSMP.aternos.me",
     "port": 16133,
-    "version": "1.20.1",
+    "version": "26.3",
     "try-creative": false
   },
   "position": {
@@ -31,9 +31,9 @@
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
-        "I'm a regular player",
-        "Subscribe to SoloPlayz!",
-        "Want Cheap Premium MC Server? https://discord.gg/VRMUnDkf95"
+        "Bhaiya dedo naa",
+        "Milikyii Papa",
+        "Cheetah hi khde"
       ]
     },
     "chat-log": true,
