@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "DuoGODSMP.aternos.me",
-    "port": 16133,
+    "ip": "Paracosm.aternos.me",
+    "port": 56833,
     "version": "1.20.1",
     "try-creative": false
   },
@@ -29,11 +29,9 @@
     "chat-messages": {
       "enabled": true,
       "repeat": true,
-      "repeat-delay": 120,
+      "repeat-delay": 600,
       "messages": [
-        "Bhaiya dedo naa",
-        "Milikyii Papa",
-        "Cheetah hi khde"
+        "Welcome to The Paracosm Server"
       ]
     },
     "chat-log": true,
@@ -82,6 +80,6 @@
     }
   },
   "chat": {
-    "respond": true
+    "respond": false
   }
 }
